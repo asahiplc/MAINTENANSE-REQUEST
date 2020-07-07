@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
-
+# MC No.
+# PART NAME
+# DESCRIPTION/PROBLEM
+# COUNTER MEASURE
+# FOLLOW UP BY
